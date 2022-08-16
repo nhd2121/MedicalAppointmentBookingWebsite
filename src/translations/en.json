@@ -1,0 +1,114 @@
+{
+    "homeHeader": {
+        "specialist": "Medical specialist",
+        "searchDoctor": "Find a doctor by specialist",
+        "health-facility": "Health facility",
+        "select-hospital": "Select hospital",
+        "doctor": "Doctor",
+        "find-doctor": "Find doctor",
+        "package": "Medical Package",
+        "medical-checkup": "Medical checkup",
+        "support": "Support",
+        "welcome": "Welcome"
+    },
+    "banner": {
+        "slogan-1": "The Highest Quality Healthcare",
+        "slogan-2": "The hospital you trust to care for those you love",
+        "child-1": "Medical specialist test",
+        "child-2": "Medical remote testing",
+        "child-3": "Medical checkup",
+        "child-4": "Medical test",
+        "child-5": "Mental Health",
+        "child-6": "Dental Exam"
+    },
+    "menu": {
+        "admin": {
+            "manage-user": "User",
+            "manage-doctor": "Manage Doctor",
+            "manage-admin": "Manage Admin",
+            "crud": "CRUD user",
+            "crud-redux": "CRUD Redux",
+            "clinic": "Clinic",
+            "manage-clinic": "Manage clinic",
+            "specialty": "Specialty",
+            "manage-specialty": "Manage specialty",
+            "handbook": "Handbook",
+            "manage-handbook": "Manage handbook"
+        },
+        "doctor": {
+            "manage-schedule": "Doctor schedule",
+            "manage-patient": "Managing Patient"
+        }
+    },
+    "manage-user": {
+        "add": "Add new user",
+        "email": "Email",
+        "password": "Password",
+        "firstName": "First name",
+        "lastName": "Last name",
+        "phoneNumber": "Phone number",
+        "address": "Address",
+        "gender": "Gender",
+        "position": "Position",
+        "roleID": "Role",
+        "image": "Avatar",
+        "button-save": "Save",
+        "button-save-edit": "Save edit"
+    },
+    "homepage": {
+        "out-standing-doctor": "Popular Doctor",
+        "more-info": "More"
+    },
+    "manage-schedule": {
+        "title": "Managing schedule",
+        "select-doctor": "Select doctor",
+        "select-time-schedule": "Select time",
+        "save-button": "Save"
+    },
+    "patient" : {
+        "detail-doctor": {
+            "schedule": "Schedule",
+            "no-schedule": "Thic doctor does not have any appointment on this day",
+            "select": "Select",
+            "book-free": "and make a free booking"
+        },
+        "extra-info-doctor": {
+            "address": "ADDRESS",
+            "price": "PRICE: ",
+            "price-lowercase": "Price",
+            "detail": "More detail",
+            "payment-option": "Payment method: ",
+            "hide-price": "Hide"
+        },
+        "profile-doctor": {
+            "price": "Price: "
+        },
+        "booking-modal": {
+            "title": "Patient Booking",
+            "fullName": "Fullname",
+            "phoneNumber": "Phone number",
+            "email": "email",
+            "address": "Address",
+            "reason": "disease",
+            "birthday": "Birthday",
+            "genders": "Gender",
+            "save-btn": "Book",
+            "cancel-btn": "Cancel"
+        }
+    }, 
+    "admin": {
+        "manage-doctor": {
+            "title": "Update doctor's information",
+            "select-doctor": "Select doctor",
+            "doctor-info": "Add information",
+            "save-btn": "Save",
+            "add-new-btn": "Add new",
+            "price": "Price",
+            "payment": "Payment method",
+            "province": "Province",
+            "clinicName": "Clinic name",
+            "clinicAddress": "Clinic's address",
+            "note": "Note"
+        }
+    }
+}
